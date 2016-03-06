@@ -20,7 +20,7 @@
                 if(j==pages[i].childNodes.length)pages[i].innerHTML="<h1>这是一个无背景图的div <br>请在此div中添加一条注释 <br> 注释内容为想要添加的背景的地址或相对路径</h1>"
                 sideBar.innerHTML+="<div></div>"
             }
-            sideBar.style.height=50*i+"px"
+            sideBar.style.height=20+40*i+"px"
         })()
 
 
