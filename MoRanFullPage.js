@@ -17,7 +17,7 @@
                         break;
                     }
                 }
-                if(j==pages[i].childNodes.length)pages[i].innerHTML="<h1>请在源代码中这边写一个包含图片<strong>地址的注释</strong>!</h1>"
+                if(j==pages[i].childNodes.length)pages[i].innerHTML="<h1>这是一个无背景图的div <br>请在此div中添加一条注释 <br> 注释内容为想要添加的背景的地址或相对路径</h1>"
                 sideBar.innerHTML+="<div></div>"
             }
             sideBar.style.height=50*i+"px"
