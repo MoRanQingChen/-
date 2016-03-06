@@ -6,6 +6,8 @@
 
 
 第二步:引入JS和CSS
+
+
 `http://moranqingchen.github.io/Myfullpage.js/fullPage.css`
 `http://moranqingchen.github.io/Myfullpage.js/MoRanFullPage.js`
 
@@ -31,4 +33,4 @@
 
 ![](http://moranqingchen.github.io/Myfullpage.js/使用方法/5.png)
 
-效果预览:`http://moranqingchen.github.io/Myfullpage.js/`
+效果预览:http://moranqingchen.github.io/Myfullpage.js/
